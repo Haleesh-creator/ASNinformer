@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
 
-import os 
 import re
 import sys
 import json
 import requests
-from bs4 import BeautifulSoup
 import argparse
 from rich import print as pprint
 

@@ -8,5 +8,8 @@ fi
 file='./ASNinformer.py'
 name="$(basename "${file%.py}")"
 
+## Requirements
+pip3 install requests rich
+
 cp -r $file /bin/$name
 echo "Done."
